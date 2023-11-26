@@ -42,7 +42,11 @@ First of all, I'd like to thank all the people who trusted me during this projec
 - [X] Nitro Sniper
 - [X] Custom RPC
 - [X] Auto-Status Changer
-- [X] Auto-Reply     
+- [X] Auto-Reply
+ 
+### 🧾 Todo List 
+![chrome_S2uyoX03zI](https://github.com/Unknown-user-dev/Code-Project/assets/69392977/5a950c90-06e3-49b0-bc55-b328d1ba2f71)
+
 
 ### 😎Preview
 ![Discord_fWH5aKs9ua](https://github.com/Unknown-user-dev/Code-Project/assets/69392977/662a362e-6a42-4091-a5c6-59b39ee2f7f5)
